@@ -1,0 +1,20 @@
+# Database connection credentials (protects your local passwords/usernames)
+dbcon.php
+
+# Operating System generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Editor files (VS Code)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# PHP logs / error logs
+*.log
